@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilan Priyanandana</h1>
-<h3 align="center">software developer from Sri lanka</h3>
+<h3 align="center">Software developer from Sri lanka</h3>
 
 - I'am student of **IJSE (Institute of Java and Software Enginnering)**
 
