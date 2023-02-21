@@ -2,7 +2,7 @@
 <h3 align="center">software developer from Sri lanka</h3>
 
 - I'am student of **IJSE (Institute of Java and Software Enginnering)**
-- 
+
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**
 
 - 💬 Ask me about **Java**
