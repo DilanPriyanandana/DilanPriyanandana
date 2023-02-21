@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dilan Priyanandana</h1>
 <h3 align="center">software developer from Sri lanka</h3>
 
+- I'am student of **IJSE (Institute of Java and Software Enginnering)**
+- 
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **dpriyanandana25@gmail.com**
-
-- I'am student of **IJSE (Institute of Java and Software Enginnering)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
